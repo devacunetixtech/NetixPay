@@ -9,8 +9,7 @@ lerna-debug.log*
 
 react-client/node_modules
 react-client/.env
-dist
-dist-ssr
+
 *.local
 
 # Editor directories and files
